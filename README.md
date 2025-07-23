@@ -31,7 +31,6 @@
 - 🌐 Portfolio: [hemanthnarayana.vercel.app](https://hemanthnarayana.vercel.app/)
 
 ---
-
 <p align="center">
   <i>“Code is not just syntax, it's a way to solve problems and tell stories.”</i> ✨
 </p>
