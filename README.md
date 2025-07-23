@@ -30,7 +30,3 @@
 - 💼 LinkedIn: [hemanth-narayana-gangula](https://www.linkedin.com/in/hemanth-narayana-gangula-ba073a326/)  
 - 🌐 Portfolio: [hemanthnarayana.vercel.app](https://hemanthnarayana.vercel.app/)
 
----
-<p align="center">
-  <i>“Code is not just syntax, it's a way to solve problems and tell stories.”</i> ✨
-</p>
