@@ -22,16 +22,7 @@
   <img src="https://skillicons.dev/icons?i=java,python,react,nodejs,mongodb,mysql,firebase,html,css,js,tailwind,git" />
 </p>
 
----
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hemuu24&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Hemuu24&theme=tokyonight" />
-</p>
-
----
 
 ### 📫 Let’s Connect
 
