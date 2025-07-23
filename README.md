@@ -1,16 +1,46 @@
-## Hi there 👋
+<h1 align="center">Hey 👋, I'm Hemanth Narayana</h1>
+<h3 align="center">Full-Stack Dev | AI Enthusiast </h3>
 
-<!--
-**Hemuu24/Hemuu24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  🚀 Turning coffee & code into real-world impact 🌍  
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👨‍💻 About Me
+
+- 🎓 Final Year CSE Student @ GITAM University  
+- 💼 Interned at **Hindustan Coca-Cola Beverages** – Revamped SFA 2.0 experience with multilingual helpdesk, chatbot & dashboards  
+- 🛠️ Intern at **HPCL Vizag (IT Department)** – Worked on internal tools, servers, and built a **Safety Assistant** project  
+- 🌱 Currently learning **Next.js**, **TypeScript**, and diving deeper into **AI & automation**
+
+---
+
+### 🔧 Tech Stack & Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=java,python,react,nodejs,mongodb,mysql,firebase,html,css,js,tailwind,git" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=GangulaHemanthNarayana&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=GangulaHemanthNarayana&theme=tokyonight" />
+</p>
+
+---
+
+### 📫 Let’s Connect
+
+- 📧 Email: hemanthnarayanagangula@gmail.com  
+- 💼 LinkedIn: [hemanth-narayana-gangula](https://www.linkedin.com/in/hemanth-narayana-gangula-ba073a326/)  
+- 🌐 Portfolio: [hemanthnarayana.vercel.app](https://hemanthnarayana.vercel.app/)
+
+---
+
+<p align="center">
+  <i>“Code is not just syntax, it's a way to solve problems and tell stories.”</i> ✨
+</p>
