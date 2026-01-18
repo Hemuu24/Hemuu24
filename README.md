@@ -19,7 +19,7 @@
 ### 🔧 Tech Stack & Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java,python,react,nodejs,mongodb,mysql,firebase,html,css,js,tailwind,git" />
+  <img src="https://skillicons.dev/icons?i=java,python,react,nodejs,mongodb,mysql,html,css,js,tailwind,git" />
 </p>
 
 
